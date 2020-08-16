@@ -7,11 +7,11 @@
     ]
   },
   "responsive-layout.desktop#desktop": {
-    "children": ["image#desktop", "rich-text#desktop"]
+    "children": ["rich-text#desktop", "image#desktop"]
   },
   
   "responsive-layout.mobile#mobile": {
-    "children": ["image#mobile", "rich-text#mobile"]
+    "children": ["rich-text#mobile", "image#mobile"]
   },
   
   "rich-text#desktop": {
